@@ -23,6 +23,6 @@ header #api_status {
 	position: relative;
 }
 
-head#api_status.available {
+#api_status.available {
 	background-color: #ff545f;
 }
